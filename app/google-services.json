@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33110607293",
+    "project_id": "basketbee-a7c31",
+    "storage_bucket": "basketbee-a7c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33110607293:android:28cbbecb64134fb0cb7ed4",
+        "android_client_info": {
+          "package_name": "dev.youdroid.basketbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rhFVNyAyqij2nEyjTOp3DS56K_XI_dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

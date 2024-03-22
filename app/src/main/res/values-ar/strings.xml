@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basket Bee</string>
+    <string name="text_screen_title_categories">الفئات</string>
+    <string name="text_screen_title_shopping_list">قائمة التسوق</string>
+    <string name="input_text_placeholder_name">الاسم</string>
+    <string name="input_text_label_shoppingList">أدخل اسم قائمة التسوق</string>
+    <string name="text_items">(%s) العناصر</string>
+    <string name="input_text_label_itemName">أدخل اسم العنصر</string>
+</resources>

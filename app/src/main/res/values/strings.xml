@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basket Bee</string>
+    <string name="text_screen_title_categories">Categories</string>
+    <string name="text_screen_title_shopping_list">Shopping List</string>
+    <string name="input_text_placeholder_name">Name</string>
+    <string name="input_text_label_shoppingList">Enter Shopping list Name</string>
+    <string name="text_items">(%s) Item\'s</string>
+    <string name="input_text_label_itemName">Enter item name</string>
+</resources>
