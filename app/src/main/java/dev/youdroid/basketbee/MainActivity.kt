@@ -82,7 +82,6 @@ sealed class NavigationScreen(val route: String, val title: Int) {
 
     data object ShoppingList :
         NavigationScreen("shoppingList", R.string.text_screen_title_shopping_list)
-
     data object CategoryList :
         NavigationScreen(
             "categoryList/{name}/{shoppingListId}/{categoryId}",
